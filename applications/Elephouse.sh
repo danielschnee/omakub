@@ -1,3 +1,4 @@
+cat <<EOF >~/.local/share/applications/Basecamp.desktop
 [Desktop Entry]
 Version=1.0
 Name=Elephouse
@@ -9,3 +10,4 @@ Icon=/home/$USER/.local/share/omakub/applications/icons/Elephouse.png
 Categories=GTK;
 MimeType=text/html;text/xml;application/xhtml_xml;
 StartupNotify=true
+EOF
