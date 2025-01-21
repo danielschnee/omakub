@@ -20,4 +20,4 @@ While omakub is purposed to be an opinionated take, the open source community of
 
 ## Install
 
-`/bin/bash -c "$(wget -qO- https://raw.githubusercontent.com/danielschnee/omakub/my-own/boot.sh)"`
+`/bin/bash -c "$(wget -qO- https://raw.githubusercontent.com/danielschnee/omakub/my-own-without-docker/boot.sh)"`

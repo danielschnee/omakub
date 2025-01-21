@@ -21,7 +21,7 @@ echo "Cloning Omakub..."
 rm -rf ~/.local/share/omakub
 git clone https://github.com/danielschnee/omakub.git ~/.local/share/omakub >/dev/null
 cd ~/.local/share/omakub
-git fetch origin my-own && git checkout my-own
+git fetch origin my-own-without-docker && git checkout my-own-without-docker
 cd -
 
 echo "Installation starting..."
